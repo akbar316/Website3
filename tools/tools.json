@@ -1,0 +1,882 @@
+[
+  {
+    "name": "PDF Merge",
+    "slug": "pdf-merge",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-merge",
+    "short": "Placeholder for PDF Merge",
+    "description": "The PDF Merge tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Split",
+    "slug": "pdf-split",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-split",
+    "short": "Placeholder for PDF Split",
+    "description": "The PDF Split tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Compress",
+    "slug": "pdf-compress",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-compress",
+    "short": "Placeholder for PDF Compress",
+    "description": "The PDF Compress tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF to Word",
+    "slug": "pdf-to-word",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-to-word",
+    "short": "Placeholder for PDF to Word",
+    "description": "The PDF to Word tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Word to PDF",
+    "slug": "word-to-pdf",
+    "category": "pdf",
+    "path": "/tools/pdf/word-to-pdf",
+    "short": "Placeholder for Word to PDF",
+    "description": "The Word to PDF tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF to JPG",
+    "slug": "pdf-to-jpg",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-to-jpg",
+    "short": "Placeholder for PDF to JPG",
+    "description": "The PDF to JPG tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "JPG to PDF",
+    "slug": "jpg-to-pdf",
+    "category": "pdf",
+    "path": "/tools/pdf/jpg-to-pdf",
+    "short": "Placeholder for JPG to PDF",
+    "description": "The JPG to PDF tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Rotate",
+    "slug": "pdf-rotate",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-rotate",
+    "short": "Placeholder for PDF Rotate",
+    "description": "The PDF Rotate tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Unlock",
+    "slug": "pdf-unlock",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-unlock",
+    "short": "Placeholder for PDF Unlock",
+    "description": "The PDF Unlock tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Protect",
+    "slug": "pdf-protect",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-protect",
+    "short": "Placeholder for PDF Protect",
+    "description": "The PDF Protect tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF to Text",
+    "slug": "pdf-to-text",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-to-text",
+    "short": "Placeholder for PDF to Text",
+    "description": "The PDF to Text tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Editor",
+    "slug": "pdf-editor",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-editor",
+    "short": "Placeholder for PDF Editor",
+    "description": "The PDF Editor tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Preview & Thumbnail Generator",
+    "slug": "pdf-preview-and-thumbnail-generator",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-preview-and-thumbnail-generator",
+    "short": "Placeholder for PDF Preview & Thumbnail Generator",
+    "description": "The PDF Preview & Thumbnail Generator tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Metadata Editor",
+    "slug": "pdf-metadata-editor",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-metadata-editor",
+    "short": "Placeholder for PDF Metadata Editor",
+    "description": "The PDF Metadata Editor tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Watermark",
+    "slug": "pdf-watermark",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-watermark",
+    "short": "Placeholder for PDF Watermark",
+    "description": "The PDF Watermark tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Split by Size/Page Range",
+    "slug": "pdf-split-by-size-page-range",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-split-by-size-page-range",
+    "short": "Placeholder for PDF Split by Size/Page Range",
+    "description": "The PDF Split by Size/Page Range tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Stamping",
+    "slug": "pdf-stamping",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-stamping",
+    "short": "Placeholder for PDF Stamping",
+    "description": "The PDF Stamping tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Page Reorder",
+    "slug": "pdf-page-reorder",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-page-reorder",
+    "short": "Placeholder for PDF Page Reorder",
+    "description": "The PDF Page Reorder tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Merge Multiple Office Files to PDF",
+    "slug": "merge-multiple-office-files-to-pdf",
+    "category": "pdf",
+    "path": "/tools/pdf/merge-multiple-office-files-to-pdf",
+    "short": "Placeholder for Merge Multiple Office Files to PDF",
+    "description": "The Merge Multiple Office Files to PDF tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Accessibility Checker",
+    "slug": "pdf-accessibility-checker",
+    "category": "pdf",
+    "path": "/tools/pdf/pdf-accessibility-checker",
+    "short": "Placeholder for PDF Accessibility Checker",
+    "description": "The PDF Accessibility Checker tool in the pdf category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "AI Image Generator",
+    "slug": "ai-image-generator",
+    "category": "image",
+    "path": "/tools/image/ai-image-generator",
+    "short": "Placeholder for AI Image Generator",
+    "description": "The AI Image Generator tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Resizer",
+    "slug": "image-resizer",
+    "category": "image",
+    "path": "/tools/image/image-resizer",
+    "short": "Placeholder for Image Resizer",
+    "description": "The Image Resizer tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Compressor",
+    "slug": "image-compressor",
+    "category": "image",
+    "path": "/tools/image/image-compressor",
+    "short": "Placeholder for Image Compressor",
+    "description": "The Image Compressor tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Format Converter",
+    "slug": "image-format-converter",
+    "category": "image",
+    "path": "/tools/image/image-format-converter",
+    "short": "Placeholder for Image Format Converter",
+    "description": "The Image Format Converter tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Background Remover",
+    "slug": "background-remover",
+    "category": "image",
+    "path": "/tools/image/background-remover",
+    "short": "Placeholder for Background Remover",
+    "description": "The Background Remover tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Cropper",
+    "slug": "image-cropper",
+    "category": "image",
+    "path": "/tools/image/image-cropper",
+    "short": "Placeholder for Image Cropper",
+    "description": "The Image Cropper tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image to Cartoon / Stylize",
+    "slug": "image-to-cartoon-stylize",
+    "category": "image",
+    "path": "/tools/image/image-to-cartoon-stylize",
+    "short": "Placeholder for Image to Cartoon / Stylize",
+    "description": "The Image to Cartoon / Stylize tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Batch Image Processor",
+    "slug": "batch-image-processor",
+    "category": "image",
+    "path": "/tools/image/batch-image-processor",
+    "short": "Placeholder for Batch Image Processor",
+    "description": "The Batch Image Processor tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Upscaler",
+    "slug": "image-upscaler",
+    "category": "image",
+    "path": "/tools/image/image-upscaler",
+    "short": "Placeholder for Image Upscaler",
+    "description": "The Image Upscaler tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Metadata Editor",
+    "slug": "image-metadata-editor",
+    "category": "image",
+    "path": "/tools/image/image-metadata-editor",
+    "short": "Placeholder for Image Metadata Editor",
+    "description": "The Image Metadata Editor tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Meme Generator",
+    "slug": "meme-generator",
+    "category": "image",
+    "path": "/tools/image/meme-generator",
+    "short": "Placeholder for Meme Generator",
+    "description": "The Meme Generator tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Screenshot to Image Editor",
+    "slug": "screenshot-to-image-editor",
+    "category": "image",
+    "path": "/tools/image/screenshot-to-image-editor",
+    "short": "Placeholder for Screenshot to Image Editor",
+    "description": "The Screenshot to Image Editor tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "AI Face Retouch",
+    "slug": "ai-face-retouch",
+    "category": "image",
+    "path": "/tools/image/ai-face-retouch",
+    "short": "Placeholder for AI Face Retouch",
+    "description": "The AI Face Retouch tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Colorizer",
+    "slug": "image-colorizer",
+    "category": "image",
+    "path": "/tools/image/image-colorizer",
+    "short": "Placeholder for Image Colorizer",
+    "description": "The Image Colorizer tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Collage Maker",
+    "slug": "image-collage-maker",
+    "category": "image",
+    "path": "/tools/image/image-collage-maker",
+    "short": "Placeholder for Image Collage Maker",
+    "description": "The Image Collage Maker tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Filter Playground",
+    "slug": "image-filter-playground",
+    "category": "image",
+    "path": "/tools/image/image-filter-playground",
+    "short": "Placeholder for Image Filter Playground",
+    "description": "The Image Filter Playground tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Convert Image to Vector",
+    "slug": "convert-image-to-vector",
+    "category": "image",
+    "path": "/tools/image/convert-image-to-vector",
+    "short": "Placeholder for Convert Image to Vector",
+    "description": "The Convert Image to Vector tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Product Mockup Generator",
+    "slug": "product-mockup-generator",
+    "category": "image",
+    "path": "/tools/image/product-mockup-generator",
+    "short": "Placeholder for Product Mockup Generator",
+    "description": "The Product Mockup Generator tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Image Watermarker",
+    "slug": "image-watermarker",
+    "category": "image",
+    "path": "/tools/image/image-watermarker",
+    "short": "Placeholder for Image Watermarker",
+    "description": "The Image Watermarker tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "GIF to MP4 & MP4 to GIF",
+    "slug": "gif-to-mp4-and-mp4-to-gif",
+    "category": "image",
+    "path": "/tools/image/gif-to-mp4-and-mp4-to-gif",
+    "short": "Placeholder for GIF to MP4 & MP4 to GIF",
+    "description": "The GIF to MP4 & MP4 to GIF tool in the image category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Text Summarizer",
+    "slug": "text-summarizer",
+    "category": "text",
+    "path": "/tools/text/text-summarizer",
+    "short": "Placeholder for Text Summarizer",
+    "description": "The Text Summarizer tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Paraphraser / Rewriter",
+    "slug": "paraphraser-rewriter",
+    "category": "text",
+    "path": "/tools/text/paraphraser-rewriter",
+    "short": "Placeholder for Paraphraser / Rewriter",
+    "description": "The Paraphraser / Rewriter tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Grammar & Spell Checker",
+    "slug": "grammar-and-spell-checker",
+    "category": "text",
+    "path": "/tools/text/grammar-and-spell-checker",
+    "short": "Placeholder for Grammar & Spell Checker",
+    "description": "The Grammar & Spell Checker tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Plagiarism Checker",
+    "slug": "plagiarism-checker",
+    "category": "text",
+    "path": "/tools/text/plagiarism-checker",
+    "short": "Placeholder for Plagiarism Checker",
+    "description": "The Plagiarism Checker tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Text to Speech",
+    "slug": "text-to-speech",
+    "category": "text",
+    "path": "/tools/text/text-to-speech",
+    "short": "Placeholder for Text to Speech",
+    "description": "The Text to Speech tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Speech to Text",
+    "slug": "speech-to-text",
+    "category": "text",
+    "path": "/tools/text/speech-to-text",
+    "short": "Placeholder for Speech to Text",
+    "description": "The Speech to Text tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Word Counter & Readability Score",
+    "slug": "word-counter-and-readability-score",
+    "category": "text",
+    "path": "/tools/text/word-counter-and-readability-score",
+    "short": "Placeholder for Word Counter & Readability Score",
+    "description": "The Word Counter & Readability Score tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Text to Markdown Converter",
+    "slug": "text-to-markdown-converter",
+    "category": "text",
+    "path": "/tools/text/text-to-markdown-converter",
+    "short": "Placeholder for Text to Markdown Converter",
+    "description": "The Text to Markdown Converter tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Case Converter",
+    "slug": "case-converter",
+    "category": "text",
+    "path": "/tools/text/case-converter",
+    "short": "Placeholder for Case Converter",
+    "description": "The Case Converter tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Remove Duplicate Lines",
+    "slug": "remove-duplicate-lines",
+    "category": "text",
+    "path": "/tools/text/remove-duplicate-lines",
+    "short": "Placeholder for Remove Duplicate Lines",
+    "description": "The Remove Duplicate Lines tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "JSON Validator & Formatter",
+    "slug": "json-validator-and-formatter",
+    "category": "text",
+    "path": "/tools/text/json-validator-and-formatter",
+    "short": "Placeholder for JSON Validator & Formatter",
+    "description": "The JSON Validator & Formatter tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "CSV to JSON and JSON to CSV",
+    "slug": "csv-to-json-and-json-to-csv",
+    "category": "text",
+    "path": "/tools/text/csv-to-json-and-json-to-csv",
+    "short": "Placeholder for CSV to JSON and JSON to CSV",
+    "description": "The CSV to JSON and JSON to CSV tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Lorem Ipsum Generator",
+    "slug": "lorem-ipsum-generator",
+    "category": "text",
+    "path": "/tools/text/lorem-ipsum-generator",
+    "short": "Placeholder for Lorem Ipsum Generator",
+    "description": "The Lorem Ipsum Generator tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "AI Content Generator",
+    "slug": "ai-content-generator",
+    "category": "text",
+    "path": "/tools/text/ai-content-generator",
+    "short": "Placeholder for AI Content Generator",
+    "description": "The AI Content Generator tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Headline & Meta Description Generator",
+    "slug": "headline-and-meta-description-generator",
+    "category": "text",
+    "path": "/tools/text/headline-and-meta-description-generator",
+    "short": "Placeholder for Headline & Meta Description Generator",
+    "description": "The Headline & Meta Description Generator tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Regex Tester",
+    "slug": "regex-tester",
+    "category": "text",
+    "path": "/tools/text/regex-tester",
+    "short": "Placeholder for Regex Tester",
+    "description": "The Regex Tester tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Email Template Generator",
+    "slug": "email-template-generator",
+    "category": "text",
+    "path": "/tools/text/email-template-generator",
+    "short": "Placeholder for Email Template Generator",
+    "description": "The Email Template Generator tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Character / Emoji Counter",
+    "slug": "character-emoji-counter",
+    "category": "text",
+    "path": "/tools/text/character-emoji-counter",
+    "short": "Placeholder for Character / Emoji Counter",
+    "description": "The Character / Emoji Counter tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Text Diff Checker",
+    "slug": "text-diff-checker",
+    "category": "text",
+    "path": "/tools/text/text-diff-checker",
+    "short": "Placeholder for Text Diff Checker",
+    "description": "The Text Diff Checker tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Contract / Resume Formatter",
+    "slug": "contract-resume-formatter",
+    "category": "text",
+    "path": "/tools/text/contract-resume-formatter",
+    "short": "Placeholder for Contract / Resume Formatter",
+    "description": "The Contract / Resume Formatter tool in the text category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Meta Tag Generator",
+    "slug": "meta-tag-generator",
+    "category": "seo",
+    "path": "/tools/seo/meta-tag-generator",
+    "short": "Placeholder for Meta Tag Generator",
+    "description": "The Meta Tag Generator tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Robots.txt Generator",
+    "slug": "robotstxt-generator",
+    "category": "seo",
+    "path": "/tools/seo/robotstxt-generator",
+    "short": "Placeholder for Robots.txt Generator",
+    "description": "The Robots.txt Generator tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Sitemap Generator",
+    "slug": "sitemap-generator",
+    "category": "seo",
+    "path": "/tools/seo/sitemap-generator",
+    "short": "Placeholder for Sitemap Generator",
+    "description": "The Sitemap Generator tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Keyword Idea Finder",
+    "slug": "keyword-idea-finder",
+    "category": "seo",
+    "path": "/tools/seo/keyword-idea-finder",
+    "short": "Placeholder for Keyword Idea Finder",
+    "description": "The Keyword Idea Finder tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "SERP Snippet Preview",
+    "slug": "serp-snippet-preview",
+    "category": "seo",
+    "path": "/tools/seo/serp-snippet-preview",
+    "short": "Placeholder for SERP Snippet Preview",
+    "description": "The SERP Snippet Preview tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Backlink Anchor Text Analyzer",
+    "slug": "backlink-anchor-text-analyzer",
+    "category": "seo",
+    "path": "/tools/seo/backlink-anchor-text-analyzer",
+    "short": "Placeholder for Backlink Anchor Text Analyzer",
+    "description": "The Backlink Anchor Text Analyzer tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Page Speed Insights Wrapper",
+    "slug": "page-speed-insights-wrapper",
+    "category": "seo",
+    "path": "/tools/seo/page-speed-insights-wrapper",
+    "short": "Placeholder for Page Speed Insights Wrapper",
+    "description": "The Page Speed Insights Wrapper tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Title Tag Optimizer",
+    "slug": "title-tag-optimizer",
+    "category": "seo",
+    "path": "/tools/seo/title-tag-optimizer",
+    "short": "Placeholder for Title Tag Optimizer",
+    "description": "The Title Tag Optimizer tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Local SEO NAP Formatter",
+    "slug": "local-seo-nap-formatter",
+    "category": "seo",
+    "path": "/tools/seo/local-seo-nap-formatter",
+    "short": "Placeholder for Local SEO NAP Formatter",
+    "description": "The Local SEO NAP Formatter tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Canonical URL Checker",
+    "slug": "canonical-url-checker",
+    "category": "seo",
+    "path": "/tools/seo/canonical-url-checker",
+    "short": "Placeholder for Canonical URL Checker",
+    "description": "The Canonical URL Checker tool in the seo category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "GPA Calculator",
+    "slug": "gpa-calculator",
+    "category": "student",
+    "path": "/tools/student/gpa-calculator",
+    "short": "Placeholder for GPA Calculator",
+    "description": "The GPA Calculator tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Study Planner / Timetable Generator",
+    "slug": "study-planner-timetable-generator",
+    "category": "student",
+    "path": "/tools/student/study-planner-timetable-generator",
+    "short": "Placeholder for Study Planner / Timetable Generator",
+    "description": "The Study Planner / Timetable Generator tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Citation Generator",
+    "slug": "citation-generator",
+    "category": "student",
+    "path": "/tools/student/citation-generator",
+    "short": "Placeholder for Citation Generator",
+    "description": "The Citation Generator tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Unit Converter",
+    "slug": "unit-converter",
+    "category": "student",
+    "path": "/tools/student/unit-converter",
+    "short": "Placeholder for Unit Converter",
+    "description": "The Unit Converter tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Periodic Table Explorer",
+    "slug": "periodic-table-explorer",
+    "category": "student",
+    "path": "/tools/student/periodic-table-explorer",
+    "short": "Placeholder for Periodic Table Explorer",
+    "description": "The Periodic Table Explorer tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Formula Sheet Creator",
+    "slug": "formula-sheet-creator",
+    "category": "student",
+    "path": "/tools/student/formula-sheet-creator",
+    "short": "Placeholder for Formula Sheet Creator",
+    "description": "The Formula Sheet Creator tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Flashcards Generator",
+    "slug": "flashcards-generator",
+    "category": "student",
+    "path": "/tools/student/flashcards-generator",
+    "short": "Placeholder for Flashcards Generator",
+    "description": "The Flashcards Generator tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Math Solver",
+    "slug": "math-solver",
+    "category": "student",
+    "path": "/tools/student/math-solver",
+    "short": "Placeholder for Math Solver",
+    "description": "The Math Solver tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Plagiarism-safe paraphrase helper",
+    "slug": "plagiarism-safe-paraphrase-helper",
+    "category": "student",
+    "path": "/tools/student/plagiarism-safe-paraphrase-helper",
+    "short": "Placeholder for Plagiarism-safe paraphrase helper",
+    "description": "The Plagiarism-safe paraphrase helper tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "PDF Lecture Notes Organizer",
+    "slug": "pdf-lecture-notes-organizer",
+    "category": "student",
+    "path": "/tools/student/pdf-lecture-notes-organizer",
+    "short": "Placeholder for PDF Lecture Notes Organizer",
+    "description": "The PDF Lecture Notes Organizer tool in the student category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "HTML Minifier",
+    "slug": "html-minifier",
+    "category": "dev",
+    "path": "/tools/dev/html-minifier",
+    "short": "Placeholder for HTML Minifier",
+    "description": "The HTML Minifier tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "CSS Minifier & Prefixer",
+    "slug": "css-minifier-and-prefixer",
+    "category": "dev",
+    "path": "/tools/dev/css-minifier-and-prefixer",
+    "short": "Placeholder for CSS Minifier & Prefixer",
+    "description": "The CSS Minifier & Prefixer tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "JavaScript Obfuscator",
+    "slug": "javascript-obfuscator",
+    "category": "dev",
+    "path": "/tools/dev/javascript-obfuscator",
+    "short": "Placeholder for JavaScript Obfuscator",
+    "description": "The JavaScript Obfuscator tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Base64 Encode/Decode",
+    "slug": "base64-encode-decode",
+    "category": "dev",
+    "path": "/tools/dev/base64-encode-decode",
+    "short": "Placeholder for Base64 Encode/Decode",
+    "description": "The Base64 Encode/Decode tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "UUID Generator",
+    "slug": "uuid-generator",
+    "category": "dev",
+    "path": "/tools/dev/uuid-generator",
+    "short": "Placeholder for UUID Generator",
+    "description": "The UUID Generator tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "JWT Debugger",
+    "slug": "jwt-debugger",
+    "category": "dev",
+    "path": "/tools/dev/jwt-debugger",
+    "short": "Placeholder for JWT Debugger",
+    "description": "The JWT Debugger tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Color Palette Generator",
+    "slug": "color-palette-generator",
+    "category": "dev",
+    "path": "/tools/dev/color-palette-generator",
+    "short": "Placeholder for Color Palette Generator",
+    "description": "The Color Palette Generator tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "QR Code Generator",
+    "slug": "qr-code-generator",
+    "category": "dev",
+    "path": "/tools/dev/qr-code-generator",
+    "short": "Placeholder for QR Code Generator",
+    "description": "The QR Code Generator tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Responsive Tester",
+    "slug": "responsive-tester",
+    "category": "dev",
+    "path": "/tools/dev/responsive-tester",
+    "short": "Placeholder for Responsive Tester",
+    "description": "The Responsive Tester tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "API Request Builder",
+    "slug": "api-request-builder",
+    "category": "dev",
+    "path": "/tools/dev/api-request-builder",
+    "short": "Placeholder for API Request Builder",
+    "description": "The API Request Builder tool in the dev category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Password Strength Checker",
+    "slug": "password-strength-checker",
+    "category": "misc",
+    "path": "/tools/misc/password-strength-checker",
+    "short": "Placeholder for Password Strength Checker",
+    "description": "The Password Strength Checker tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Two-factor Authenticator (TOTP generator)",
+    "slug": "two-factor-authenticator-totp-generator",
+    "category": "misc",
+    "path": "/tools/misc/two-factor-authenticator-totp-generator",
+    "short": "Placeholder for Two-factor Authenticator (TOTP generator)",
+    "description": "The Two-factor Authenticator (TOTP generator) tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "IP Geolocation Lookup",
+    "slug": "ip-geolocation-lookup",
+    "category": "misc",
+    "path": "/tools/misc/ip-geolocation-lookup",
+    "short": "Placeholder for IP Geolocation Lookup",
+    "description": "The IP Geolocation Lookup tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Timezone Converter",
+    "slug": "timezone-converter",
+    "category": "misc",
+    "path": "/tools/misc/timezone-converter",
+    "short": "Placeholder for Timezone Converter",
+    "description": "The Timezone Converter tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Sunrise / Sunset Time Finder",
+    "slug": "sunrise-sunset-time-finder",
+    "category": "misc",
+    "path": "/tools/misc/sunrise-sunset-time-finder",
+    "short": "Placeholder for Sunrise / Sunset Time Finder",
+    "description": "The Sunrise / Sunset Time Finder tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Currency Converter",
+    "slug": "currency-converter",
+    "category": "misc",
+    "path": "/tools/misc/currency-converter",
+    "short": "Placeholder for Currency Converter",
+    "description": "The Currency Converter tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Unit Price Calculator",
+    "slug": "unit-price-calculator",
+    "category": "misc",
+    "path": "/tools/misc/unit-price-calculator",
+    "short": "Placeholder for Unit Price Calculator",
+    "description": "The Unit Price Calculator tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Habit Tracker Starter",
+    "slug": "habit-tracker-starter",
+    "category": "misc",
+    "path": "/tools/misc/habit-tracker-starter",
+    "short": "Placeholder for Habit Tracker Starter",
+    "description": "The Habit Tracker Starter tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Random Name Generator",
+    "slug": "random-name-generator",
+    "category": "misc",
+    "path": "/tools/misc/random-name-generator",
+    "short": "Placeholder for Random Name Generator",
+    "description": "The Random Name Generator tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Dice Roller",
+    "slug": "dice-roller",
+    "category": "misc",
+    "path": "/tools/misc/dice-roller",
+    "short": "Placeholder for Dice Roller",
+    "description": "The Dice Roller tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Color Contrast Checker",
+    "slug": "color-contrast-checker",
+    "category": "misc",
+    "path": "/tools/misc/color-contrast-checker",
+    "short": "Placeholder for Color Contrast Checker",
+    "description": "The Color Contrast Checker tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Expense Splitter",
+    "slug": "expense-splitter",
+    "category": "misc",
+    "path": "/tools/misc/expense-splitter",
+    "short": "Placeholder for Expense Splitter",
+    "description": "The Expense Splitter tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Minimal Invoice Generator",
+    "slug": "minimal-invoice-generator",
+    "category": "misc",
+    "path": "/tools/misc/minimal-invoice-generator",
+    "short": "Placeholder for Minimal Invoice Generator",
+    "description": "The Minimal Invoice Generator tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "File Hash Checker",
+    "slug": "file-hash-checker",
+    "category": "misc",
+    "path": "/tools/misc/file-hash-checker",
+    "short": "Placeholder for File Hash Checker",
+    "description": "The File Hash Checker tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Text-based CAPTCHA Generator",
+    "slug": "text-based-captcha-generator",
+    "category": "misc",
+    "path": "/tools/misc/text-based-captcha-generator",
+    "short": "Placeholder for Text-based CAPTCHA Generator",
+    "description": "The Text-based CAPTCHA Generator tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Word to Speech Pronunciation Guide",
+    "slug": "word-to-speech-pronunciation-guide",
+    "category": "misc",
+    "path": "/tools/misc/word-to-speech-pronunciation-guide",
+    "short": "Placeholder for Word to Speech Pronunciation Guide",
+    "description": "The Word to Speech Pronunciation Guide tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Simple Chat Widget Demo",
+    "slug": "simple-chat-widget-demo",
+    "category": "misc",
+    "path": "/tools/misc/simple-chat-widget-demo",
+    "short": "Placeholder for Simple Chat Widget Demo",
+    "description": "The Simple Chat Widget Demo tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Favicon & App Icon Generator",
+    "slug": "favicon-and-app-icon-generator",
+    "category": "misc",
+    "path": "/tools/misc/favicon-and-app-icon-generator",
+    "short": "Placeholder for Favicon & App Icon Generator",
+    "description": "The Favicon & App Icon Generator tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Email Verifier",
+    "slug": "email-verifier",
+    "category": "misc",
+    "path": "/tools/misc/email-verifier",
+    "short": "Placeholder for Email Verifier",
+    "description": "The Email Verifier tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  },
+  {
+    "name": "Minimal Site Search",
+    "slug": "minimal-site-search",
+    "category": "misc",
+    "path": "/tools/misc/minimal-site-search",
+    "short": "Placeholder for Minimal Site Search",
+    "description": "The Minimal Site Search tool in the misc category on Dicetools.online is designed to provide a simple and accessible interface for users who need quick, reliable results without complex setup. This placeholder implementation demonstrates the planned inputs and outputs, and includes example usage instructions to help developers and testers visualize how the tool will behave when fully implemented. For production use, connect the UI to serverless API routes or backend microservices that perform the real processing, and add secure file handling, input validation, and rate limiting. The tool's description here is intentionally informative to support SEO and user comprehension; it explains the purpose, typical inputs, outputs, and recommended use cases. When you extend this scaffold, replace the placeholder logic with robust processing code and update this description to include any limits, premium features, or integration notes for users and developers."
+  }
+]
